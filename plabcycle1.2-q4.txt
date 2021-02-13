@@ -1,0 +1,22 @@
+list_1={1,5,8,9,11}
+list_2={4,5,6,9}
+if len(list_1)==len(list_2):
+	print("The lists are equal")
+else:
+	print("The lists are not equal")
+
+if sum(list_1)==sum(list_2):
+	print("The lists sum equal")
+else:
+	print("The lists sum are not equal")
+output=any(check in list_2 for check in list_1)
+print("common value:",output)
+print(set(list_2).intersection(set(list_1)))
+
+
+
+Output:
+The lists are not equal                                                                                                                 
+The lists sum are not equal                                                                                                             
+common value: True                                                                                                                      
+{9, 5}      

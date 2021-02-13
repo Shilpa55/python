@@ -1,0 +1,10 @@
+n=int(input("enter a number:"))
+a=n*n
+b=n*n*n
+sum=n+a+b
+print("Sum of the pattern:",sum)
+
+
+Output:
+enter a number:5                                                                                                                        
+Sum of the pattern: 155

@@ -1,0 +1,5 @@
+total=0
+list=[5,66,7,18,9,5]
+for i in range(0,len(list)):
+	total=total+list[i]
+print("The total of list is:",total)

@@ -1,0 +1,16 @@
+a1=input("enter the first no:")
+a2=input("enter the second no:")
+a3=input("enter the third no:")
+if a1>a2 and a1>a3:
+    print("Largest no is",a1)
+elif a2>a3:
+    print("Largest no is",a2)
+else:
+    print("Largest no is",a3)
+
+
+Output:
+enter the first no:3                                                                                                                      
+enter the second no:6                                                                                                                     
+enter the third no:9                                                                                                                      
+Largest no is 9 

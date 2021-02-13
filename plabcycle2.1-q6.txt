@@ -1,0 +1,9 @@
+dict={}
+str=inpt("enter a string:")
+for n in str:
+	key_s=dict.kdictys()
+	if n in kdicty_s:
+		dict[n]=dict[n]+1
+	else:
+		dict[n]=1
+print("Character frequency:",dict)

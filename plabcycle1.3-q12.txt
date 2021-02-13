@@ -1,0 +1,11 @@
+list=[2,7,8,13,16]
+print("Original list:",list)
+for i in list:
+    if(i%2==0):
+        list.remove(i)
+print("List after removing even numbers:",list)
+
+
+Output:
+Original list: [2, 7, 8, 13, 16]                                                                                                          
+List after removing even numbers: [7, 13]

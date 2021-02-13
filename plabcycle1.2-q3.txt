@@ -1,0 +1,11 @@
+list={'ashitha','mariya','jincy','ravan','harshan'}
+count=0
+for i in list:
+	for j in i:
+		if j=='a':
+			count=count+1
+print("The total count of a:",count)
+
+
+Output:
+The total count of a: 8 

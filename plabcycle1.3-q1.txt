@@ -1,0 +1,10 @@
+def change_string(str1):
+    new_str=str1[-1:]+str1[1:-1]+str1[:1]
+    print(new_str)
+string=input("enter the string:")
+change_string(string)
+
+
+Output:
+enter the string:python                                                                                                                   
+nythop 
