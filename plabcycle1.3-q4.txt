@@ -3,6 +3,3 @@ f_extn=fname.split(".")
 print("The extension of file name is:",f_extn[-1])
 
 
-Output:
-enter the file name:plab.java                                                                                                           
-The extension of file name is: java 

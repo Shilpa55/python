@@ -3,5 +3,3 @@ color_list2=set(['blue','pink','yellow','orange'])
 print(color_list1.difference(color_list2))
 
 
-Output:
-{'red', 'black'}

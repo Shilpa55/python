@@ -15,8 +15,4 @@ print(set(list_2).intersection(set(list_1)))
 
 
 
-Output:
-The lists are not equal                                                                                                                 
-The lists sum are not equal                                                                                                             
-common value: True                                                                                                                      
-{9, 5}      
+   

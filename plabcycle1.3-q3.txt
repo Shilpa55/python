@@ -9,8 +9,3 @@ else:
     print("Largest no is",a3)
 
 
-Output:
-enter the first no:3                                                                                                                      
-enter the second no:6                                                                                                                     
-enter the third no:9                                                                                                                      
-Largest no is 9 

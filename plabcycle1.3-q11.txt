@@ -8,7 +8,4 @@ while(i<=num1 and i<=num2):
 print("gcd is",gcd)
 
 
-Output:
-enter the first number:26                                                                                                                 
-enter the second number:118                                                                                                               
-gcd is 2 
+ 

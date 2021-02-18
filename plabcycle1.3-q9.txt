@@ -8,7 +8,3 @@ lii.sort(reverse=True)
 print("The list in desceding order:",lii)
 
 
-Output:
-The dictionary is : {'rinu': 55, 'manu': 50, 'mithu': 60}                                                                               
-The list in asceding order: [('manu', 50), ('mithu', 60), ('rinu', 55)]                                                                 
-The list in desceding order: [('rinu', 55), ('mithu', 60), ('manu', 50)] 

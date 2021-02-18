@@ -4,6 +4,3 @@ area=PI*r*r
 print("Area of circle:",area)
 
 
-output:
-enter the raius of circle:4                                                                                                               
-Area of circle: 50.24 

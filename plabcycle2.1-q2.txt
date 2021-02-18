@@ -16,7 +16,3 @@ else:
         n2=nth
         count=count+1
 
-Output:
-How many terms:5                                                                                                                        
-fibanocci series:                                                                                                                       
-0 1 1 2 3

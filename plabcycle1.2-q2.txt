@@ -9,11 +9,4 @@ for i in range(0,n):
 print(list)
 
 
-Output:
-Enter the number of elements:5                                                                                                            
-Enter the number:10                                                                                                                       
-Enter the number:30                                                                                                                       
-Enter the number:50                                                                                                                       
-Enter the number:120                                                                                                                      
-Enter the number:150                                                                                                                      
-[10, 30, 50, 'Over', 'Over']   
+ 

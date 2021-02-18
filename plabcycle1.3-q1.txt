@@ -5,6 +5,3 @@ string=input("enter the string:")
 change_string(string)
 
 
-Output:
-enter the string:python                                                                                                                   
-nythop 
