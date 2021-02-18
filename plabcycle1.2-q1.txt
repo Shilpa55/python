@@ -12,5 +12,3 @@ print(word_count("Be a good person))
 
 
 
-output:
-{'always': 1, 'good': 1, 'Always': 1, 'be': 1, 'person': 1, 'a': 1}
