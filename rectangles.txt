@@ -1,0 +1,6 @@
+def rarea(l,b):
+	r_area=l*b
+	print("Area of rectangle:",r_area)
+def rperi(l,h):
+	r_peri=2*(l+h)
+	print("Perimeter of rectangle:",r_peri)
